@@ -1,4 +1,3 @@
-## FIAS_Detector
 ### [생각을 코딩하다] FIAS(Fire Image Alarm System) 화재 감지
 
 ## 1) 화재 감지만 하는 경우
