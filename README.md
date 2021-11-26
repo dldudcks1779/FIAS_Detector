@@ -1,6 +1,6 @@
 ### [생각을 코딩하다] FIAS(Fire Image Alarm System) 화재 감지
 
-## 1) 화재 감지만 하는 경우
+## 1) 화재 감지 테스트
 * 세부 설정 : 코드 argument 설정 참고
 ### - sudo python3 detection.py
 
